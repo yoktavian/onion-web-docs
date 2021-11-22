@@ -7,6 +7,37 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    body {
+      background-color: #091a28;
+    }
+    .anchor span {
+      color: #b4b4b4;
+    }
+    .markdown-section {
+      color: #b4b4b4;
+    }
+    .markdown-section blockquote {
+      border-left: 4px solid var(--theme-color,#3DD598);
+      color: #858585;
+      margin: 2em 0;
+      padding-left: 20px;
+    }
+    .markdown-section code {
+      border-radius: 2px;
+      color: #d22778;
+      margin: 0 2px;
+      padding: 3px 5px;
+      white-space: pre-wrap;
+      background: #0E222F;
+    }
+    .markdown-section pre {
+      margin: 1.2em 0;
+      position: relative;
+      background: #0E222F;
+      border-radius: 8px;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -15,8 +46,10 @@
       name: '',
       repo: ''
     }
+    //#091a28
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/prismjs@1.25.0/components/prism-dart.min.js"></script>
 </body>
 </html>
