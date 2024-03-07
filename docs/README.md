@@ -187,3 +187,27 @@ OniButton(
     },
 );
 ```
+
+## OSION - Oni's collection
+
+This Privacy Policy explains how osion collects, uses, and protects any information that you provide when using our mobile application osion.
+
+**Information We Do Not Collect**
+
+- We do not collect any personal information or data from users of our mobile application.
+
+**Usage Data**
+
+- We do not collect any usage data or statistics from users of our mobile application.
+
+**Cookies**
+
+- We do not use cookies in our mobile application.
+
+- Changes to This Privacy Policy
+
+**Contact Us**
+
+- If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at yudaoktavian@gmail.com
+
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
